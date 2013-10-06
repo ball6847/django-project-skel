@@ -1,4 +1,4 @@
-This is my version of Django project skeleton ready made for my project. Because I'm new to Django, this repository may frequently change as my experience rising.
+This is my version of Django project skeleton ready made for my project. Since I'm quite a newbie to Django, this repository may frequently change as my experience rising.
 
 ## Installation
 
