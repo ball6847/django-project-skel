@@ -1,0 +1,6 @@
+Django
+django-annoying
+django-grappelli
+south
+MySQL-python
+Unipath
