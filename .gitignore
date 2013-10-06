@@ -15,7 +15,7 @@ Thumbs.db
 # you should run `python manage.py collectstatic`
 # to copy them all from python site-packages
 /static/admin
-/static/grappeli
+/static/grappelli
 
 # local settings for each developers
 /project/settings_local.py
